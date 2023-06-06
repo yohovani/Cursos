@@ -1,10 +1,5 @@
 # Data-Visualisation-with-Matplotlib
-Data Visualisation with Matplotlib Couse from Fresco Play
+Data Visualisation with Matplotlib Course from Fresco Play by TCS
 
-## Line Plots and Scatter Plots
-<li>Notes from the Bar Plots and Sccater Plots Sections</li>
-<li>Excersices Hands-Ons</li>
-
-## Bar Plots and Pie Plots
-<li>Notes from the Bar Plots and Pie Plots Sections</li>
-<li>Excersices Hands-Ons</li>
+# Neural Networks and Deep Learning
+Neural Networks and Deep Learning Course from Fresco Play by TCS
