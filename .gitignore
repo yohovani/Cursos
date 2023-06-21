@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/react-course/node_modules
+/react-course/.pnp
+/react-course/.pnp.js
+
+# testing
+/react-course/coverage
+
+# production
+/react-course/build
+
+# misc
+/react-course/.DS_Store
+/react-course/.env.local
+/react-course/.env.development.local
+/react-course/.env.test.local
+/react-course/.env.production.local
+
+/react-course/npm-debug.log*
+/react-course/yarn-debug.log*
+/react-course/yarn-error.log*
