@@ -1,3 +1,4 @@
+import {VscBug} from 'react-icons/vsc'
 export const Post = () => {
     return <button onClick={() => {
         fetch('https://jsonplaceholder.typicode.com/posts')
@@ -5,6 +6,7 @@ export const Post = () => {
         .then(data => console.log(data))
         .catch(error => console.log(error))
     }}>
+        <VscBug/>
         Traer Datos
     </button>
 }
