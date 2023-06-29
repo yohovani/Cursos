@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types'; // ES6
 
 export function Button({text}){
-    return <button>{text}</button> 
+    return <button onClick={function (){console.log("Hola Mundo")}}>{text}</button> 
 }
 
 Button.propTypes = {
